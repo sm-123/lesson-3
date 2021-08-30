@@ -8,6 +8,10 @@ body{
 font-family: 'PT Sans Narrow', sans-serif;
 }
 
+hr {
+    margin: 2rem 0rem;
+}
+
 .container {
  padding: 0rem 1rem;
 }
